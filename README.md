@@ -1,2 +1,2 @@
-smallprob
+small coding problem
 =========
